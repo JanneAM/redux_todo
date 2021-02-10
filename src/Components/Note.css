@@ -1,0 +1,13 @@
+.note-container{
+    display: flex;
+    border-bottom: dotted 1px white;
+    padding: 0.5rem;
+}
+
+.line-through{
+    text-decoration: line-through;
+}
+
+.note{
+    cursor: pointer;
+}
